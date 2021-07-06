@@ -35,7 +35,7 @@ h1{
   .prue{
     color:#fff;
     font-size:17px;
-    font-family:Impact, Haettenschweiler,'Arial Narrow Bold, sans-serif;
+    font-family:Impact, Haettenschweiler,'Arial Narrow Bold', sans-serif;
     text-align: center;
   }
   .footer{
